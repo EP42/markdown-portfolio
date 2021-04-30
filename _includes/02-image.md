@@ -1,3 +1,3 @@
 #Let's put an image
 
-! [Picture of S. cerevisiae] (https://www.researchgate.net/profile/Mahmoud-Farout/publication/336116058/figure/fig1/AS:883798443036673@1587725377807/A-The-structure-of-a-budding-yeast-cellB-The-yeast-Saccharomyces-cerevisiae-is-a.ppm)
+! [Picture of S. cerevisiae] (https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)
