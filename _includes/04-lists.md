@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# What I like to do
+
+- Listening to music 🎵
+  * Postrock
+  * Pop
+  * Classic
+- Baking cakes 🍰
+- Reading books 📖
